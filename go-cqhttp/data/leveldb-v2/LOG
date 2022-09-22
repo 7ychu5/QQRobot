@@ -1,0 +1,87 @@
+=============== Sep 21, 2022 (CST) ===============
+00:12:47.472320 table@build created L1@65146 N·9018 S·2MiB "\xe5fǚ,v274094":"\xe7\x96\xce\xed,v454096"
+00:12:47.533864 table@build created L1@65147 N·8992 S·2MiB "\xe7\x96\xdb8,v731975":"\xe9̑\xfc,v344611"
+00:12:47.608444 table@build created L1@65148 N·8989 S·2MiB "\xe9̴\xcd,v194621":"\xeb\xf91\xca,v495501"
+00:12:47.706936 table@build created L1@65149 N·9034 S·2MiB "\xeb\xf9L-,v831491":"\xee/}\v,v527912"
+00:12:47.770227 table@build created L1@65150 N·9018 S·2MiB "\xee/\x85\x86,v144999":"\xf0_\x1a\\,v40631"
+00:12:47.805501 table@build created L1@65151 N·8998 S·2MiB "\xf0_B\xf4,v120929":"\xf2\x92\x1dF,v855224"
+00:12:47.848168 table@build created L1@65152 N·8977 S·2MiB "\xf2\x92Y\xff,v1039687":"\xf4\xc6@+,v91222"
+00:12:47.881554 table@build created L1@65153 N·8932 S·2MiB "\xf4\xc6E^,v649358":"\xf6\xef\x14\x93,v353748"
+00:12:47.913836 table@build created L1@65154 N·8980 S·2MiB "\xf6\xef!|,v541962":"\xf9\x1cwa,v870189"
+00:12:47.952131 table@build created L1@65155 N·8976 S·2MiB "\xf9\x1c\x82Y,v328179":"\xfbO\"\x88,v403823"
+00:12:47.983431 table@build created L1@65156 N·9021 S·2MiB "\xfbO2(,v869819":"\xfd}b\x17,v951932"
+00:12:48.015117 table@build created L1@65157 N·9004 S·2MiB "\xfd}e\xcc,v676982":"\xff\xa9c\x15,v823603"
+00:12:48.018792 table@build created L1@65158 N·174 S·40KiB "\xff\xa9\xa0\v,v172803":"\xff\xb3\xab\xcd,v810256"
+00:12:48.018893 version@stat F·[0 55 69] S·236MiB[0B 99MiB 137MiB] Sc·[0.00 0.99 0.14]
+00:12:48.021126 table@compaction committed F-3 S+4KiB Ke·0 D·0 T·1.986435206s
+00:12:48.021194 table@remove removed @65105
+00:12:48.021229 table@remove removed @65103
+00:12:48.021253 table@remove removed @65101
+00:12:48.021278 table@remove removed @65099
+00:12:48.021625 table@remove removed @65045
+00:12:48.021992 table@remove removed @65046
+00:12:48.022324 table@remove removed @65047
+00:12:48.022627 table@remove removed @65048
+00:12:48.022953 table@remove removed @65049
+00:12:48.023260 table@remove removed @65050
+00:12:48.023567 table@remove removed @65051
+00:12:48.023873 table@remove removed @65052
+00:12:48.024190 table@remove removed @65053
+00:12:48.024490 table@remove removed @65054
+00:12:48.024514 table@remove removed @65055
+00:12:48.024795 table@remove removed @65056
+00:12:48.025070 table@remove removed @65057
+00:12:48.025351 table@remove removed @65058
+00:12:48.025629 table@remove removed @65059
+00:12:48.025924 table@remove removed @65060
+00:12:48.026209 table@remove removed @65061
+00:12:48.026477 table@remove removed @65062
+00:12:48.026513 table@remove removed @65063
+00:12:48.026792 table@remove removed @65064
+00:12:48.027057 table@remove removed @65065
+00:12:48.027321 table@remove removed @65066
+00:12:48.027589 table@remove removed @65067
+00:12:48.027838 table@remove removed @65068
+00:12:48.028117 table@remove removed @65069
+00:12:48.028386 table@remove removed @65070
+00:12:48.028651 table@remove removed @65071
+00:12:48.028726 table@remove removed @65072
+00:12:48.029015 table@remove removed @65073
+00:12:48.029247 table@remove removed @65074
+00:12:48.029458 table@remove removed @65075
+00:12:48.029733 table@remove removed @65076
+00:12:48.030024 table@remove removed @65077
+00:12:48.030274 table@remove removed @65078
+00:12:48.030507 table@remove removed @65079
+00:12:48.030750 table@remove removed @65080
+00:12:48.031001 table@remove removed @65081
+00:12:48.031237 table@remove removed @65082
+00:12:48.031478 table@remove removed @65083
+00:12:48.031713 table@remove removed @65084
+00:12:48.032054 table@remove removed @65085
+00:12:48.032305 table@remove removed @65086
+00:12:48.032541 table@remove removed @65087
+00:12:48.032803 table@remove removed @65088
+00:12:48.033043 table@remove removed @65089
+00:12:48.033274 table@remove removed @65090
+00:12:48.033509 table@remove removed @65091
+00:12:48.033729 table@remove removed @65092
+00:12:48.034038 table@remove removed @65093
+00:12:48.034339 table@remove removed @65094
+00:12:48.034636 table@remove removed @65095
+00:12:48.034957 table@remove removed @65096
+00:35:29.143350 memdb@flush N·203 S·127KiB
+00:35:29.149071 memdb@flush created L0@65160 N·203 S·42KiB "\x02\xbf\x1c\xe1,v1052291":"\xff\x9eС,v1052271"
+00:35:29.149114 version@stat F·[1 55 69] S·236MiB[42KiB 99MiB 137MiB] Sc·[0.25 0.99 0.14]
+00:35:29.151908 memdb@flush committed F·1 T·8.532585ms
+00:35:29.152023 journal@remove removed @65104
+00:55:50.738897 memdb@flush N·205 S·127KiB
+00:55:50.744543 memdb@flush created L0@65162 N·205 S·42KiB "\x00U\x17\xf7,v1052495":"\xfd\xbc\x02=,v1052471"
+00:55:50.744587 version@stat F·[2 55 69] S·236MiB[85KiB 99MiB 137MiB] Sc·[0.50 0.99 0.14]
+00:55:50.747526 memdb@flush committed F·1 T·8.603229ms
+00:55:50.747624 journal@remove removed @65159
+02:19:47.058533 memdb@flush N·205 S·127KiB
+02:19:47.064872 memdb@flush created L0@65164 N·205 S·41KiB "\x00\x9b\xca\x15,v1052728":"\xfe8\xd6S,v1052739"
+02:19:47.064917 version@stat F·[3 55 69] S·236MiB[127KiB 99MiB 137MiB] Sc·[0.75 0.99 0.14]
+02:19:47.067626 memdb@flush committed F·1 T·9.073103ms
+02:19:47.067721 journal@remove removed @65161
