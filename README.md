@@ -1,0 +1,2 @@
+# QQRobot
+nonebot + go-cqhttp
